@@ -4,7 +4,7 @@ TASK_ID="bb04d284-8e4f-405f-a16a-67452680e7fe"
 MODEL="stablediffusionapi/protovision-xl-v6.6"
 DATASET_ZIP="https://s3.eu-central-003.backblazeb2.com/gradients-validator/883256fe3e38cf3c_train_data.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=00362e8d6b742200000000002%2F20260522%2Feu-central-003%2Fs3%2Faws4_request&X-Amz-Date=20260522T024126Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=705a91ad2bdd8a3fff18238d4acb4a43389900c70907746a5619fc6ba6fab50a"
 MODEL_TYPE="sdxl"
-EXPECTED_REPO_NAME="sdxltest-7"
+EXPECTED_REPO_NAME="sdxlboss-7"
 
 HUGGINGFACE_TOKEN=""
 HUGGINGFACE_USERNAME="Jordansky"

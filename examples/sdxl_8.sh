@@ -4,7 +4,7 @@ TASK_ID="47fb483d-0844-487f-be2f-6e3212076e5d"
 MODEL="ehristoforu/Visionix-alpha"
 DATASET_ZIP="https://s3.eu-central-003.backblazeb2.com/gradients-validator/2469ca55f862c8dc_train_data.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=00362e8d6b742200000000002%2F20260522%2Feu-central-003%2Fs3%2Faws4_request&X-Amz-Date=20260522T135422Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=1ead6b08aee09a23007da8964972ef116bbfba04c15b25a24cf4e2ff3f249acc"
 MODEL_TYPE="sdxl"
-EXPECTED_REPO_NAME="sdxltest-8"
+EXPECTED_REPO_NAME="sdxlboss-8"
 
 HUGGINGFACE_TOKEN=""
 HUGGINGFACE_USERNAME="Jordansky"

@@ -4,7 +4,7 @@ TASK_ID="077e8944-a5e3-4682-b4ac-2a3a3293783e"
 MODEL="misri/leosamsHelloworldXL_helloworldXL70"
 DATASET_ZIP="https://s3.eu-central-003.backblazeb2.com/gradients-validator/2d8039548cdb60e0_train_data.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=00362e8d6b742200000000002%2F20260522%2Feu-central-003%2Fs3%2Faws4_request&X-Amz-Date=20260522T001440Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=183c8f165799c0ae48237dd2a0730f85030249ebcfa622968e4ee122060ae8d2"
 MODEL_TYPE="sdxl"
-EXPECTED_REPO_NAME="sdxltest-2"
+EXPECTED_REPO_NAME="sdxlboss-2"
 
 HUGGINGFACE_TOKEN=""
 HUGGINGFACE_USERNAME="Jordansky"

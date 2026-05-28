@@ -4,7 +4,7 @@ TASK_ID="5efa4800-e905-4fb9-b200-b5c99546b00e"
 MODEL="KBlueLeaf/Kohaku-XL-Zeta"
 DATASET_ZIP="https://s3.eu-central-003.backblazeb2.com/gradients-validator/e93ea701699cc2ad_train_data.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=00362e8d6b742200000000002%2F20260522%2Feu-central-003%2Fs3%2Faws4_request&X-Amz-Date=20260522T002106Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=50acc26f277a601e1cfa406b9c45344b048f690c7455d0340d9120fe8116d0da"
 MODEL_TYPE="sdxl"
-EXPECTED_REPO_NAME="sdxltest-4"
+EXPECTED_REPO_NAME="sdxlboss-4"
 
 HUGGINGFACE_TOKEN=""
 HUGGINGFACE_USERNAME="Jordansky"

@@ -4,7 +4,7 @@ TASK_ID="7418f06d-0bf5-4731-9852-ee55dabc4ede"
 MODEL="misri/zavychromaxl_v90"
 DATASET_ZIP="https://s3.eu-central-003.backblazeb2.com/gradients-validator/135bf5c8145f373a_train_data.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=00362e8d6b742200000000002%2F20260522%2Feu-central-003%2Fs3%2Faws4_request&X-Amz-Date=20260522T002613Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=23abac2461a3532f677431f7270d16e5bb49e01bf79ec20b8b386834af52823f"
 MODEL_TYPE="sdxl"
-EXPECTED_REPO_NAME="sdxltest-5"
+EXPECTED_REPO_NAME="sdxlboss-5"
 
 HUGGINGFACE_TOKEN=""
 HUGGINGFACE_USERNAME="Jordansky"

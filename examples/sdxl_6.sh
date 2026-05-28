@@ -4,7 +4,7 @@ TASK_ID="c9ea392b-1438-42cb-85ed-f8f89136f084"
 MODEL="stablediffusionapi/omnium-sdxl"
 DATASET_ZIP="https://s3.eu-central-003.backblazeb2.com/gradients-validator/24d0195e2cbd6634_train_data.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=00362e8d6b742200000000002%2F20260522%2Feu-central-003%2Fs3%2Faws4_request&X-Amz-Date=20260522T023833Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=2fe11dbb65aae4c31ebac5595dc50b2143908dd75405d1d2e85648afa6c6756c"
 MODEL_TYPE="sdxl"
-EXPECTED_REPO_NAME="sdxltest-6"
+EXPECTED_REPO_NAME="sdxlboss-6"
 
 HUGGINGFACE_TOKEN=""
 HUGGINGFACE_USERNAME="Jordansky"

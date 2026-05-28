@@ -4,7 +4,7 @@ TASK_ID="e66e6d78-7e0d-493f-8165-59e48f7b95ea"
 MODEL="OnomaAIResearch/Illustrious-xl-early-release-v0"
 DATASET_ZIP="https://s3.eu-central-003.backblazeb2.com/gradients-validator/2d99c3068fe21cfe_train_data.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=00362e8d6b742200000000002%2F20260522%2Feu-central-003%2Fs3%2Faws4_request&X-Amz-Date=20260522T001905Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=fb24226bc95e75e1a6bf1d01e585d720d2d2d8d8ce78292625fa01ac702a3e8a"
 MODEL_TYPE="sdxl"
-EXPECTED_REPO_NAME="sdxltest-3"
+EXPECTED_REPO_NAME="sdxlboss-3"
 
 HUGGINGFACE_TOKEN=""
 HUGGINGFACE_USERNAME="Jordansky"

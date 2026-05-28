@@ -4,7 +4,7 @@ TASK_ID="e4ff549a-f9d4-4762-ae07-b7477da98237"
 MODEL="femboysLover/RealisticStockPhoto-fp16"
 DATASET_ZIP="https://s3.eu-central-003.backblazeb2.com/gradients-validator/71a85a0d453a925f_train_data.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=00362e8d6b742200000000002%2F20260522%2Feu-central-003%2Fs3%2Faws4_request&X-Amz-Date=20260522T210617Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=2720b9a4a2ab15f6778165c4894f21b000319bc5eb3583e916cb1200053e8dae"
 MODEL_TYPE="sdxl"
-EXPECTED_REPO_NAME="sdxltest-11"
+EXPECTED_REPO_NAME="sdxlboss-11"
 
 HUGGINGFACE_TOKEN=""
 HUGGINGFACE_USERNAME="Jordansky"

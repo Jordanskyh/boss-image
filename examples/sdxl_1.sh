@@ -4,7 +4,7 @@ TASK_ID="5708f002-f6aa-4f90-be13-58de069a3909"
 MODEL="dataautogpt3/TempestV0.1"
 DATASET_ZIP="https://s3.eu-central-003.backblazeb2.com/gradients-validator/37f41c09bd1c7da1_train_data.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=00362e8d6b742200000000002%2F20260521%2Feu-central-003%2Fs3%2Faws4_request&X-Amz-Date=20260521T154349Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=bc8e5d78bbe41595a1561989f927978a7ce8493f0503b495a18e187b6e750308"
 MODEL_TYPE="sdxl"
-EXPECTED_REPO_NAME="sdxltest-1"
+EXPECTED_REPO_NAME="sdxlboss-1"
 
 HUGGINGFACE_TOKEN=""
 HUGGINGFACE_USERNAME="Jordansky"

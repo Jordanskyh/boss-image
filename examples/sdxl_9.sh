@@ -4,7 +4,7 @@ TASK_ID="4cc9845e-e862-4dc5-b0d7-b3738542f06c"
 MODEL="zenless-lab/sdxl-aam-xl-anime-mix"
 DATASET_ZIP="https://s3.eu-central-003.backblazeb2.com/gradients-validator/8d89cfb500902210_train_data.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=00362e8d6b742200000000002%2F20260522%2Feu-central-003%2Fs3%2Faws4_request&X-Amz-Date=20260522T202258Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=cd5d21eb9b8aacc83e97313467729f53200da4619592b27874d3daab71fd88bc"
 MODEL_TYPE="sdxl"
-EXPECTED_REPO_NAME="sdxltest-9"
+EXPECTED_REPO_NAME="sdxlboss-9"
 
 HUGGINGFACE_TOKEN=""
 HUGGINGFACE_USERNAME="Jordansky"

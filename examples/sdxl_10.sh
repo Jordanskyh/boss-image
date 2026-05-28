@@ -4,7 +4,7 @@ TASK_ID="14410080-8d7e-4bea-b3f9-d593c7dec7a4"
 MODEL="openart-custom/DynaVisionXL"
 DATASET_ZIP="https://s3.eu-central-003.backblazeb2.com/gradients-validator/a8c4df7610d4435a_train_data.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=00362e8d6b742200000000002%2F20260522%2Feu-central-003%2Fs3%2Faws4_request&X-Amz-Date=20260522T202521Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=2a2a302af43e42eddfb0462405024cad94bb3545131c101481bbf4b7a362a149"
 MODEL_TYPE="sdxl"
-EXPECTED_REPO_NAME="sdxltest-10"
+EXPECTED_REPO_NAME="sdxlboss-10"
 
 HUGGINGFACE_TOKEN=""
 HUGGINGFACE_USERNAME="Jordansky"
